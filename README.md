@@ -14,8 +14,8 @@ It was conducted to collect the data from
     •	Twitter API by a developer account and python teetpy library
     •	the WeRateDogs Twitter archive, which was given by Udacity as a on-hand file. 
     •	Dog’s images predictions, i.e., what breed of dog (or other object, animal, etc.)
-          was present in each tweet according to a neural network. This file was hosted on 
-          Udacity's servers and should be downloaded programmatically using the Requests library. 
+    was present in each tweet according to a neural network. This file was hosted on 
+    Udacity's servers and should be downloaded programmatically using the Requests library. 
 
 
 
