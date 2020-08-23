@@ -31,7 +31,7 @@ Image Prediction data
 
 Twiter API data
 
-    •	Unnecessary columns for analysis: id_srt, in_reply_to_status_id, 
+    •	Unnecessary columns for analysis: id_srt, in_reply_to_status_id,/ 
        in_reply_to_status_id_str, in_reply_to_user_id,
        in_reply_to_user_id_str, in_reply_to_screen_name, entities, truncated, user
     •	Null columns: coordinates, place, contributors, is_quote_status
