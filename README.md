@@ -13,9 +13,7 @@ It was conducted to collect the data from
 
     •	Twitter API by a developer account and python teetpy library
     •	the WeRateDogs Twitter archive, which was given by Udacity as a on-hand file. 
-    •	Dog’s images predictions, i.e., what breed of dog (or other object, animal, etc.)
-    was present in each tweet according to a neural network. This file was hosted on 
-    Udacity's servers and should be downloaded programmatically using the Requests library. 
+    •	Dog’s images predictions, i.e., what breed of dog (or other object, animal, etc.) was present in each tweet according to a neural network. This file was hosted on Udacity's servers and should be downloaded programmatically using the Requests library. 
 
 
 
@@ -31,9 +29,7 @@ Image Prediction data
 
 Twiter API data
 
-    •	Unnecessary columns for analysis: id_srt, in_reply_to_status_id,/ 
-       in_reply_to_status_id_str, in_reply_to_user_id,
-       in_reply_to_user_id_str, in_reply_to_screen_name, entities, truncated, user
+    •	Unnecessary columns for analysis: id_srt, in_reply_to_status_id, in_reply_to_status_id_str, in_reply_to_user_id, in_reply_to_user_id_str, in_reply_to_screen_name, entities, truncated, user
     •	Null columns: coordinates, place, contributors, is_quote_status
     •	created at should be timestamp
     •	id should be tweet id for coherency
